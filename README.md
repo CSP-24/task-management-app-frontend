@@ -44,7 +44,7 @@ npm run build
 ## Local
 
 - Update env variables in **.env**
-- Run the following command
+- Run the following commands
 
 ```
 npm install
