@@ -40,3 +40,13 @@ npm run build
 ```
 
 - Upload the files in **/dist** to the AWS S3 Bucket that will be used for static website hosting
+
+## Local
+
+- Update env variables in **.env**
+- Run the following command
+
+```
+npm install
+npm run dev
+```
